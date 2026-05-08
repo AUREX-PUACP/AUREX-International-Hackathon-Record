@@ -16,7 +16,7 @@
 
 ![Hackathons](https://img.shields.io/badge/Hackathons-1-0D1F3C?style=flat-square)
 ![Active](https://img.shields.io/badge/Currently%20Active-1-C9973A?style=flat-square)
-![Members](https://img.shields.io/badge/Members%20Competed-0-darkgreen?style=flat-square)
+![Members](https://img.shields.io/badge/Members%20Competed-7-darkgreen?style=flat-square)
 ![Awards](https://img.shields.io/badge/Awards-TBD-gray?style=flat-square)
 
 </div>
